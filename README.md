@@ -8,6 +8,12 @@ Fork this repo and perform the requested actions.
   
   Update the README.md per feature branch with your branchname, student details and add a textfile with your assignment in it.
   
+  branchname:4-feature-TimoKlaassen
+  
+  student name: Timo Klaassen
+  
+  student number:2159001
+
   Add your feedback regarding the SWEN2 course in the existing feedback.rtf
   
   Initiate a pull request, update the dev branch (require 2 reviewers)
